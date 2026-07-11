@@ -271,8 +271,19 @@ This project is licensed under the MIT License.
 
 ---
 
-# ⭐ Support
+# 👨‍💻 Contributors
 
-If you found this project useful, please give it a ⭐ on GitHub.
+| Name | Role |
+|------|------|
+| 👨‍💼 **Manelli Mahendra Varma** | Team Member |
+| 👨‍💻 **Ganesh Pavan Pedapudi** | Team Member |
+| 👨‍💻 **Tagore Prem Reddy Pasupuleti** | Team Member |
 
-Thank you for visiting!
+
+---
+
+> ❤️ **Special Thanks:**  
+> This project was completed through teamwork, collaboration, and shared dedication. We sincerely thank every team member for their valuable contributions toward the successful completion of the project.
+
+
+
